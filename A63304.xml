@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the behaviour, confessions, and last dying words, of Abraham Bigs, Richard Cabourn, Jane Langworth, and Elizabet Stoaks At Tyburn, on Wednesday the 21th. of December, 1684 for high-treason murther, felony and burglary, &amp;c. Printed by order, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63304</idno>
+            <idno type="STC">Wing T2354</idno>
+            <idno type="STC">ESTC R219364</idno>
+            <idno type="EEBO-CITATION">99830842</idno>
+            <idno type="PROQUEST">99830842</idno>
+            <idno type="VID">35296</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35296)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2083:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the behaviour, confessions, and last dying words, of Abraham Bigs, Richard Cabourn, Jane Langworth, and Elizabet Stoaks At Tyburn, on Wednesday the 21th. of December, 1684 for high-treason murther, felony and burglary, &amp;c. Printed by order, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Turner at the Star in Pauls Church-Yard,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bigs, Abraham, d. 1684 --  Early works to 1800.</term>
+               <term>Cabourn, Richard, d. 1684 --  Early works to 1800.</term>
+               <term>Langworth, Jane, d. 1684 --  Early works to 1800.</term>
+               <term>Stoaks, Elizabet, d. 1684 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Crime --  Early works to 1800.</term>
+               <term>Criminals --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:35296:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT OF THE BEHAVIOUR, CONFESSIONS, AND Laſt Dying Words, OF <hi>Abraham Bigs, Richard Cabourn, Jane Langworth,</hi> and <hi>Elizabet Stoaks.</hi> AT TYBURN, On <hi>Wedneſday</hi> the 21th. of <hi>December,</hi> 1684 for High-Treaſon Murther, Felony and Burglary, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>Printed by ORDER,</hi> &amp;c.</p>
+            <p>STRANGE it is, that the Fatal and untimely Ends of ſuch as ſuffer for Crimes Notorious, ſhould not deter others from running into the like Extravegances thereby, to reender themſelves obnoxious to the to the Law; or that the expiring Confeſſions of ſuch as have made their Exits by untimely Death, ſhould not be a ſufficient Warning; yet not to prolong ſo ſerious a Matter, <hi>I</hi> ſhall proceed to give the Reader an Impar<g ref="char:EOLhyphen"/>tial Account of the Behaviour, and Laſt Dying Speeches of the Perſons Exe<g ref="char:EOLhyphen"/>cuted, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Abraham Bigs,</hi> an old Offender, being tryed and caſt, for breaking open the Houſe of <hi>John Middleton,</hi> and ſtealing thence divers Goods of value; as wearing Apparrel, Puter plate, and other Materials of conſiderable Value; and receiving Sentence thereupon, it was obſerved that after he returned to <hi>Newgate,</hi> he behav'd himſelf with much mildneſs and decencie, great<g ref="char:EOLhyphen"/>ly bewailing his paſt miſpent Life, ſaying that he had been a grievour Sin<g ref="char:EOLhyphen"/>ner Guilty of many Robberies, yet he hoped not but God, out of his infinite Mercys, though far beyond his deſerts would pardon his many Tranſgreſſi<g ref="char:EOLhyphen"/>ons, and by giving him a timely ſince of his Impieties, ſuffer him at leaſt in theſe the latter Moments of his Life, to lay hold on him by Faith, that ſo his Mercy might be ſufficient for him, that he might be ſaved through the me<g ref="char:EOLhyphen"/>ritorious
+<pb n="2" facs="tcp:35296:2" rendition="simple:additions"/>Death and Paſſion of his Bleſſed Saviour and Redeemer; adding that he knew his ſins too great to be pardoned, without the commiſeration of a moſt Gracious Saviour, whoſe death he confeſſed was a Plenary and ſa<g ref="char:EOLhyphen"/>tisfactory Sacrifice for the ſins of the whole World, ſaying that he had been a ſinner in the ſuparlative degree, Guilty of all manner of Offences as to Robe<g ref="char:EOLhyphen"/>ry, except, that of the High-Pad; but was not able to make reſtitution for the wrong he had done, which if he had been he would gladly have made reta<g ref="char:EOLhyphen"/>liation. To ſuch Divines as attended out of their charitable inclination, him and his condemned Fellows, to give them Sacred inſtructions relating to their Immortal well-fare: He gave great attention, never thinking himſelf ſufficiently aſſured of Life and Salvation, continuing deſirous of inſtructions on that occaſion, not only during his confinement in Priſong but at <hi>Tyburn.</hi>
+            </p>
+            <p>
+               <hi>Abraham Bigs</hi> being brought to the place of Execution, and well obſer<g ref="char:EOLhyphen"/>ving that there was no hopes of mercy in giving his life a longer date, greatly bewailed himſelf praying very frequently, and deſiring God of his infinite-Mercy not to lay his manifold Tranſgreſſions to his Charge; ſaying that he had for his reitterated Offences long before deſerved Death, but now offend<g ref="char:EOLhyphen"/>ed Juſtice had overtaken him: He confeſſed he had been Guilty of many Roberies, and for many years ſubſiſted by no other maintenance than what he got by his unlawful Practices, having defrauded many and been inſtru<g ref="char:EOLhyphen"/>mental in drawing away Youths to Leudneſs as himſelf had been drawn a<g ref="char:EOLhyphen"/>way: He once, not imagining he ſhould have followed ſuch a Courſe of life, as muſt inevitably undo him; but addicting himſelf to bad company in his Youth, he was inticed and drawn away by his Luſts to ſatisfie which, he left no wickedneſs that ſeemed pleaſing in his Eyes unattempted; deſiring the Spectators to let him be an Example to them, and that his ſhameful &amp; untimely End, might deter them from Aſſociating themſelves with Evil Company which had been his ruin, by intraping him in a ſnare that had brought upon him a diſgraceful Death; but he hoped through the Meritori<g ref="char:EOLhyphen"/>ous Death and Paſſion of his merciful Redeemer he ſhould find Mercy at the hands of the great Judge of Heaven and Earth, deſiring all preſent to pray for him.</p>
+            <p>Mr. <hi>Ordnary</hi> obſerving him very penitent, the better to know how he ſtood affected as to this future State, deſired him to pray audibly which he did, re<g ref="char:EOLhyphen"/>hearſing the <hi>Lords</hi> Prayer, with much fervency, deſiring that others would pray for him, and ſo continued extreamly penitent to the laſt.</p>
+            <p>
+               <hi>Richard Caborn,</hi> Tryed and found Guilty for Clipping the Lawful Coin of this Kingdom, as King <hi>Charles</hi> the Firſt's Half Crowns, Shillings and Six<g ref="char:EOLhyphen"/>pences, he owning the Fact receieved Sentence as in caſes of High-Treaſon; upon which being ſenſible of his great and grieveus offence, he declared himſelf much afflicted in mind; for leaving his more advantageous Employ, to take ſuch unlawful Practices in hand, which had in the End brought him to a ſhameful Death, deſiring thoſe that came to viſit him, that they would beware of bad Company which had been to him a ſnare, drawing him into the ill conveniencies that had forfaited his Life to the Law, and for which, according to Conviction he was to ſuffer; adding that he might have lived happily had he followed his own Employment: But for his ſins he ſaid God had given him over to follow theſe Extravegances that ended in his ruin. To the Sermon preached on <hi>Sunday</hi> laſt, he was very attentive, deſiring his fellow Convicts to give ſerious attention to what concern'd their Immortal Buſineſs, and ſo continued to the day of Execution, not re<g ref="char:EOLhyphen"/>jecting any advice tending to the Immortal well-fare of his ſoul.</p>
+            <pb n="3" facs="tcp:35296:2"/>
+            <p>
+               <hi>Richard Caborn</hi> being drawn in a Sledge to the place of Execution and there put into the Cart with Eyes and hands lifted up, beſought the great God of Heaven an Earth to have Mercy upon his poor ſoul which had but a few Moments reſpit e'r it muſt appear before him, and leaſt his prayers ſhould be Inſufficient to attoan for his manifold Tranſgreſſions, he earneſt<g ref="char:EOLhyphen"/>ly deſired the hearty Union of the Spectators in praying with him, his Prayer to himſelf ended, he ſaid he had been well decended and brought up in Learning and ſuch other Educations as accompliſhed him to live in the World; but degenerating from his firſt Principals he fell into Evil Com<g ref="char:EOLhyphen"/>pany, who drew him into ſuch Practices as were unlawful; and by reitter<g ref="char:EOLhyphen"/>ating his Crimes he was imboldened to wade deeper and fall into the ſnare that had brought him to ruin and confuſion, yet he hoped not but there was through the infinite goodneſs of his God, Mercy in ſtore (tho' by him unde<g ref="char:EOLhyphen"/>ſerved) for his immortal ſoul, for whoſe Wellfare he was more ſo licitous than Life, yet deſired all to take warning by his downfal, and that they would out of all Love beware of Evil Company, which had brought him to practice what had been the occaſion of his ſhame: Himſelf being no ways in<g ref="char:EOLhyphen"/>clined thereto, had he not been over perſwaded.</p>
+            <p>Mr. <hi>Ordnary</hi> perceiving him very ardent in his Expreſſions deſired him to pray, ſaying he would afterward pray for him; when lifting up his voice he prayed earneſtly, deſiring the Almighty Creator of Heaven and Earth to have mercy upon him, and ſtrengthen him in his ſufferings, Pardoning his manifold Offences, and forgiving him all that was paſt. A while after turning to a Friend of his, he deſired him to be careful of his Body, and that he would ſee it decently Buried, which he promiſing to do: He ſeemed greatly ſatisfied thereat, and proceeded to declare that he had made his Confeſſion and Diſcovery to Juſtice <hi>Perrey,</hi> upon his be<g ref="char:EOLhyphen"/>ing Apprehended, and once for his ſo doing he had ſome thoughts of long<g ref="char:EOLhyphen"/>er Life; but ſeeing his hopes failed him, he ſubmitted to the Law, and caſt himſelf into the Arms of his Redeemer, wholly relying on him through whoſe mercies he doubted not of Salvation.</p>
+            <p>
+               <hi>Jane Langworth,</hi> being convicted for killing her Female Baſtard Infant on the 13th. of <hi>December</hi> laſt, by tying a ſtring about it's Neck to ſtill as ſhe pretended it's crying, received Sentence with the reſt on the 17th. Inſtant, and being reconveyed to the place of Execution, began imediately to con<g ref="char:EOLhyphen"/>ſider her latter End; Lamenting, that to cover one ſhame, ſhe had brought her ſelf into a greater diſgrace, ſaying ſhe had been well Educated by honeſt Parents, and might have continued happy had ſhe not aſſociated her ſelf with Leude Perſons who had tempted her to commit much wickedneſs, whereby ſhe had provoked God to puniſh her and bring her to ſhame; yet ſhe would bear it patiently, as knowing it was a Correction for her ſins.</p>
+            <p>To ſuch Miniſters as out of their Pious Inclinations came to viſit her and her fellow Convicts: She gave great attention during the intervene, ſeem<g ref="char:EOLhyphen"/>ing ever deſirous of their Converſation, and inquiſitive in matters relating to her Eternal Wellfare, being asked how ſhe found her ſelf as to a future State, ſhe ſaid ſhe had ſome doubtings, by reaſon of her many ſins; but ſhe hoped God for the ſake of his Dear Son, would be merciful to her and ſupport her in her great Tribulation, deſiring all good Chriſtians to pray for her that ſhe might not faint, and ſo continued during her remaining in <hi>Newgate.</hi>
+            </p>
+            <pb n="4" facs="tcp:35296:3"/>
+            <p>
+               <hi>Jane Langworth,</hi> being brought to the Place of Execution with loud Laments bewailed her misfortune declaring that ſhe had been a looſe Liver, and a neglecter of Gods Holly Worſhip, giving her mind to Prophaneneſs, and much delighting in Idle Company which had induced her to run into many Extravagancies, and ſtill proceeding in that courſe of Life; She at laſt ſurrende<g ref="char:EOLhyphen"/>red her Honour Unlawfully defileing her ſelf, when proving with Child, ſhe uſed what diligence ſhe could <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to conceal her pregnancy and ſo cunningly contrived it, that it was not diſcovered till she was Delivered and had Murthered her Infant. She than being Sick of the Small-Pox, for which ſhe expr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed much ſorrow, deſiring the Prayers of the Spectators, and expreſſing with a bundanee of Tears, the true Senſe ſhe had for unnaturality ſheding Inocent Blood.</p>
+            <p>Mr. <hi>Ordinary,</hi> deſiring her to Pray, ſhe did it as well as ſhe could, though with many abrupt ſtamerings the abundance of her Grief and Terror of Approaching Death, not ſuffering her to expreſs her ſelf freely in her Devotion, to help which, ſhe deſired the Prayers of the ſpectators admoniſhing them with a low Voice to take warning by her unhappy end, and not to give them ſelves over to Ludeneſs and uncleanneſs.</p>
+            <p>
+               <hi>Elizabeth Stoaks,</hi> being convicted for Murthering her Male Baſtard Infant on the 28th. of <hi>December,</hi> by throwing it out at the Window in the Pariſh of St. <hi>Martins in the Fields,</hi> and receiving Sentence of Death for the offence and inhumane Breach of the Laws: She upon her being reconveyed to <hi>Negate</hi> greatly bewailed her ſelf, and would not for ſome days be comforted as being extreamly terified at the approach of a certain Death; but hearing and headfully attending to the Prayer of divers Eminent Divines, that out of a Chriſtian Zeal and Charity to thoſe poor Wretches, came to uſe their Endeavours for the ſaving of the Souls of thoſe miſerable Wretches: She in the End became more conſolate and chearful; confeſſing ſhe had lived many years in ſervice and behav'd her ſelf honeſtly on all occaſions, till ſhe was be<g ref="char:EOLhyphen"/>trayed to yield up their Honour-Love more than Luſt inclining her thereto, hoping it would have been requited, but finding a defect therein, and that ſhame for ſuch her Leudndſs grew faſt upon her: She in great confuſion re<g ref="char:EOLhyphen"/>ſolved upon the Fatal Buſineſs, which had brought her to ruin and her lateſt End.</p>
+            <p>She was often obſerved in Priſon to exhort her Fellows to a ſincere Repen<g ref="char:EOLhyphen"/>tance, looking often in the Scriptures, and appeared very deſirous to be inſtru<g ref="char:EOLhyphen"/>cted therein, and daily became more and more aſſured of Gods Mercy and Fa<g ref="char:EOLhyphen"/>uour extended to her poor Immortal ſoul; ſaying God was a God of Everlaſt<g ref="char:EOLhyphen"/>ingneſs, &amp; would not lay to he Charge more than he would give her ſtrength and patience to bear, and that ſhe would truſt in him and doubted not but that her Iniquities would be done away, and her ſins tho' of a Crimſon Dye blotted out, grieving at nothing more than that ſhe ſhould be ſo inhu<g ref="char:EOLhyphen"/>mane to deſtroy the Fruits of her Womb which ſmiled at her as ſhe ſaid, when ſhe caſt it from her Fatal Arms,</p>
+            <p>
+               <hi>Elizabeth Stoakes,</hi> at the Place of Execution, upon conſideration of her Crime, for which ſhe was to ſuffer lamented greatly, as the former had done wishing she had never been Born to ſee the day, wherein she was brought to a shameful and untimely Death, Confeſſing her ſelf worthy of Death for her ſo unnaturally sheading Innocent Blood, Beſeeching God of his Infinite mercy to Pardon and paſs by her Offences, that her Prayers and the Prayers of thoſe that were put up for her, might in ſome meaſure attoan for her Crying-ſin. After which she Prayed, and much condemned her ſelf for falling into ſo great a Temptation, ſeeming very deſirous of a longer Life, although she confeſſed she had deſerved to dye, for being ſo cruel and unnatural to her Poor Smileing Infant which was guilty of no Crime?</p>
+            <p>Being asked how ſhe foundd her ſelf as to her Immortal State, and what aſſurance sha had of her Sal<g ref="char:EOLhyphen"/>vation, she ſaid she for her ſins had deſerved no Mercy nor could expect any, but through the Mercy and Merits of Jeſus Chriſt she doubted not but she should be accepted.</p>
+            <p>The Several ſuffering partys having thus far expreſſed themſelves and unburthened their labouring Souls. Mr. <hi>Ordinary</hi> prayed with them, deſiring the Almighty of his infinite Mercy to cleanſe them from all their Iniquities, by washing them in the Blood of his dear Son, and to give them a true Senſe of their Sins, that to the laſt Moment of their lives they might by Faith lay hold on him, and by a full reliance on him receive Comfort to their Souls and be Immortally Happy, <hi>&amp;c.</hi>
+            </p>
+            <p>The Prayer ended, as likewiſe the Benediction of the Church pronounced. Mr. <hi>Ordinary</hi> proceeded to ſing part of the 25. <hi>Pſalm,</hi> in which the Priſoners and Spectators ioyned and that ended, the Cart ſoon af<g ref="char:EOLhyphen"/>ter drove away, and they with Expreſſions of Praiſe and Thanksgiving to the laſt, ended this Tranſitory Life in hopes of that more durable and laſting Felicity, that is prepared for ſuch as remain faithful till Death.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>R. Turner</hi> at the Star in <hi>Pauls Church-Yrrd,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
